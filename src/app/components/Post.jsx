@@ -17,7 +17,20 @@ export default function Post({ post }) {
           Tired of getting caught? Here are 10 ninja-level tips to keep your
           phone hidden and your texts flowing during boring lectures.
           <p className="text-gray-700">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ё
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est iure
+            ex rem fugit dolorum quis similique ut nihil, tenetur perferendis
+            esse eum perspiciatis deleniti alias. Atque dicta eaque veritatis
+            fuga. Corporis, autem. Unde harum dolor officiis fugit corrupti sint
+            adipisci quos nostrum molestiae fugiat! Debitis sed voluptatem quam
+            eius tenetur aspernatur in, id possimus quae. Nostrum sed
+            repudiandae atque magnam! Quae officiis totam eveniet nihil
+            voluptatibus beatae at, quis harum provident, voluptates temporibus
+            quod aliquid nisi expedita architecto consequatur molestiae nobis
+            aspernatur dolorum est autem facere incidunt. Culpa, dolorem
+            incidunt. Reiciendis ea, voluptatibus maxime, repellendus pariatur
+            suscipit et minus tempore alias nisi dicta possimus! Recusandae non
+            fugiat voluptatibus minus reiciendis quasi soluta iste, atque porro,
+            laboriosam corporis. Odit, reiciendis dolorem.
           </p>
         </div>
         <button className="bg-red-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600">

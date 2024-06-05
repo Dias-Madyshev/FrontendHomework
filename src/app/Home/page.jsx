@@ -19,7 +19,7 @@ export default function Каталог() {
         <div className="w-full max-w-[1000px] mx-auto mb-4">
           <img
             src="https://framerusercontent.com/images/F6zn3wYuthzj0Iq3EQ6tTrXzR6w.jpg?scale-down-to=2048"
-            alt=""
+            alt="фото"
             className="w-full rounded-lg"
           />
         </div>
